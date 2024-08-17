@@ -1,0 +1,64 @@
+body{background-color: #FFDE32;
+margin: 0;}
+
+.logo-inicial{text-align: center;}
+
+.header-inicial{width: 100%;
+height: 60px;
+background-color: #6d1427;
+display: flex;}
+
+.header-home{font-size: 20px;
+color: white;
+margin-left: 32.5%;
+margin-top: 1.1%;
+font-family: sans-serif;}
+
+.header-destaques{font-size: 17px;
+color: rgb(156, 156, 156);
+margin-left: 2%;
+margin-top: 1.3%;
+font-family: sans-serif;}
+
+.header-contato{font-size: 17px;
+color: rgb(156, 156, 156);
+margin-left: 2%;
+margin-top: 1.3%;
+font-family: sans-serif;}
+
+.header-quem{font-size: 17px;
+color: rgb(156, 156, 156);
+margin-left: 2%;
+margin-top: 1.3%;
+font-family: sans-serif;}
+
+.header-login{font-size: 17px;
+color: rgb(156, 156, 156);
+margin-left: 2%;
+margin-top: 1.3%;
+font-family: sans-serif;}
+
+.div-input-inicio{margin-left: 40%;
+margin-top: 5%;}
+
+.input-inicio{height: 40px;
+width: 300px;}
+
+.div-lupa{margin-left:60%;
+margin-top: -3%;}
+
+.div-pesquisa-texto{text-align: center;
+margin: 5% 0% -4% 0%;
+font-size: 25px;
+font-family: sans-serif;
+font-weight: bold;
+color: #6d1427;}
+
+.img-motoboy01{margin-left: 2%;}
+.img-mulher{margin-left: 80%;
+margin-top: -15%;}
+
+a{color: rgb(156, 156, 156)}
+
+
+.pesquisa-inicial{margin-top: -15%;}

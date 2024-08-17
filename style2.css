@@ -1,0 +1,19 @@
+body{background-color: #FFDE32}
+
+.quem-somos{font-size: 100px;
+    font-family: sans-serif;
+color: #6d1427;
+margin-left: 2%;}
+
+
+.flex{display: flex;}
+
+.texto-quem-somos{background-color: #6d1427;
+font-family: sans-serif;
+height: 700px;
+width: 60%;
+margin-top: -18%;
+margin-left: 5%;
+font-size: 25px;
+color: white;
+padding: 3%;}
